@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTModuleMethod.mm \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/dgoecke/Documents/github/Intervals/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/dgoecke/Documents/github/Intervals/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/dgoecke/Documents/github/Intervals/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Profiler/RCTProfile.h

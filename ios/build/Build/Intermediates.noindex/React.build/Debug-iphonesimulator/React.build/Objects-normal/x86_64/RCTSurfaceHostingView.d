@@ -1,0 +1,11 @@
+dependencies: \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.mm \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/Surface/RCTSurfaceDelegate.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceSizeMeasureMode.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/Surface/RCTSurfaceView.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/dgoecke/Documents/github/Intervals/node_modules/react-native/React/Base/RCTAssert.h
